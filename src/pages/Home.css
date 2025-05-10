@@ -1,0 +1,10 @@
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  margin: 1rem 0;
+}
+@media (max-width: 494px) {
+  h1 {
+    font-size: 1.8rem;
+  }
+}
